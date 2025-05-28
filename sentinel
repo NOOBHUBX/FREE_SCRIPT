@@ -1,0 +1,4 @@
+-- Made by @fuckluau
+loadstring(game:HttpGet("https://sentinelxyz.netlify.app/raw.lua"))()
+
+DC : https://discord.gg/4FnYCBFDqZ
